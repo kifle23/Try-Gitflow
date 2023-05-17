@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Nature is pleased with simplicity. And nature is no dummy." - Isaac Newton
+=======
+Simplicity is the soul of efficiency.
+>>>>>>> dev
